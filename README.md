@@ -6,9 +6,9 @@ The JS Interop is included in the `index.html` file and the wasm file is include
 
 ## Latest Ticket Versions
 
-  **US**
+  - **US**
   - **WASM:** `https://d17ol771963kd3.cloudfront.net/assets/ticket.318d200.wasm`
   - **Bootstrapper:** `https://d17ol771963kd3.cloudfront.net/assets/ticket.318d200.js`
-  **EU**
+  - **EU**
   - **WASM**: N/A
   - **Bootstrapper**: N/A 
